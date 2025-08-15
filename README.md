@@ -138,6 +138,7 @@ _Feel free to experiment and find the display that works best for you._
 - [LM Arena](https://lmarena.ai/) to translate Java to Javascript
 - Obviously, SilentVoid for the amazing [Templater](https://silentvoid13.github.io/Templater/introduction.html)
 - Goes without saying but i'll do it anyway : the [Obsidian](https://obsidian.md) team and [Forum](https://forum.obsidian.md)
+- Baidu and [Wen Yi](https://en.chinaculture.org/focus/focus/2010qiufeng/2010-09/21/content_394728.htm) for the equinox date calculation
 
 ### Contribute
 
