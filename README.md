@@ -1,6 +1,6 @@
 # Obsidian Moons
 
-_Originally posted on the [Obsidian.md Forum](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater) to share my implementation of the phases; quickly after i created another script for moon signs (coming soon). After some time (exactly one year later, thanks to my "last year on this date" daily feature, and a request, i added full moon names, optimized the script while at it, and created this repository._
+_Originally posted on the [Obsidian.md Forum](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871) to share my implementation of the phases; quickly after i created another script for moon signs (documentation coming soon). After some time (exactly one year later, thanks to my "last year on this date" daily feature, and a [request](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871/5), i added full moon names, optimized the script while at it, and created this repository._
 
 ## Moon Phase Templater Script
 
@@ -66,11 +66,10 @@ In order for a bit more control over the information displayed, we can provide t
   - `"moonEmoji"` : displays the moon phase emoji
   - `"moonPhase"` OR `"moonPhaseWithName"` : displays the text version of the moon phase, basic or with the full moon names
   - `"fullMoonNameEmoji"` : displays the full Moon name's emoji
-  Any character between the parts will be used as is; using double underscore `__` will remove the space inbetween parts (usefull if we don't want a space between two emojis).
-  Default : `"moonEmoji moonPhase"`
-- `hemisphere` : the hemisphere we are in; will influence which emoji is shown, as the moon is viewed upside down; default : `"N"`
-- `language` : the text’s language; currently, only `"en"` (default), `"fr"`, and `"es"` are supported
-- `title_format` : our daily note’s title format; default : `"YYYY-MM-DD"`
+  - any character between the parts will be used as is as separators; using double underscore `__` will remove the space inbetween parts (usefull if we don't want a space between two emojis)
+- `hemisphere` : the hemisphere we are in; will influence which emoji is shown, as the moon is viewed upside down
+- `language` : the text’s language; currently, only `"en"`, `"fr"`, and `"es"` are supported
+- `title_format` : our daily note’s title format
 
 If we don’t provide any other parameter than the mandatory `tp`, it will default to :
 
