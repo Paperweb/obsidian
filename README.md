@@ -25,7 +25,7 @@ _It is also good to know that originally, the name of the full moon was the one 
 ##### Harvest Moon
 
 On the full moon the closest to the autumn equinox, it will take the name of the Harvest Moon.
-A rough calculation (that needs to be verified), finds the date of the equinox for the current year, checks if the full moon is closer to it than a half-moon cycle and labels it such.
+A rough calculation finds the date of the equinox for the current year, checks if the full moon is closer to it than a half-moon cycle and labels it such.
 
 ##### Blue moons
 
