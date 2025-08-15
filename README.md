@@ -18,7 +18,7 @@ Formatting options allow to display various details in the order and manner we w
 #### Full Moon Names
 
 Full moon names are somewhat opinionated, taken from [Royal Museums Greenwich (en)](https://www.rmg.co.uk/stories/space-astronomy/what-are-names-full-moons-throughout-year), [Wikipedia (es)](https://es.wikipedia.org/wiki/Luna_llena), [Sahavre (fr)](https://sahavre.fr/wp/histoire-de-lune/).
-Feel free to modify the javascript file to modify according to your preferences.
+Feel free to modify the javascript file according to your preferences (from line 116).
 
 _It is also good to know that originally, the name of the full moon was the one of its lunation, meaning it was based on the month when the previous new moon occurred._
 
