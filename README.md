@@ -1,6 +1,6 @@
 # 🌙 Obsidian Moons
 
-_Originally posted on the [Obsidian.md Forum](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871) to share my implementation of the phases; quickly after i created another script for moon signs (documentation coming soon). After some time (exactly one year later, thanks to my "last year on this date" daily feature, and a [request](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871/5), i added full moon names, optimized the script while at it, and created this repository._
+_Originally posted on the [Obsidian.md Forum](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871) to share my implementation of the phases; quickly after i created another script for moon signs transits (coming soon). After some time (exactly one year later, thanks to my "last year on this date" daily feature, and a [request](https://forum.obsidian.md/t/insert-moon-phase-in-daily-note-with-templater/86871/5), i added full moon names, optimized the script while at it, and created this repository._
 
 ## Moon Phase 🌒🌓🌔🌝🌖🌗🌘🌑
 
