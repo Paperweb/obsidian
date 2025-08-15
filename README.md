@@ -42,8 +42,8 @@ Hopefully, the general moon awareness brought by the usage of this script will b
 
 ### Preliminary setup
 
-Place the moon_phase.js script inside the folder of your choice. I chose Atlas/Ressources/scripts in my vault.
-In the Templater settings, under User Scripts Functions, locate the scripts folder and Refresh 🔄 the Detected User Scripts.
+Place the `moon_phase.js` script inside the folder of your choice. I chose `Atlas/Ressources/scripts` in my vault.
+In the Templater settings, under `User Scripts Functions`, locate the scripts folder and `Refresh 🔄` the `Detected User Scripts`.
 
 ### Template implementation
 
