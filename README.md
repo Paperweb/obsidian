@@ -29,8 +29,8 @@ A rough calculation finds the date of the equinox for the current year, checks i
 
 ##### Blue moons
 
-Blue moon is the name given to an "extra" moon. 
-Originally, it was referring to the third full moon of a four full moon season. Due to a mistake, it became associated to the second full moon occurring in the same month, and is now used as such by NASA.
+Blue moon is the name given to an "extra" moon. Originally, it was referring to the third full moon of a four full moon season. Due to a mistake, it became associated to the second full moon occurring in the same month, and is now used as such by NASA.
+
 Because detecting blue moons would necessitate either to calculate all moons of a season or of a month (and/or use a database or an extra dependency), and because every full moon note creation would launch this calculation, i decided it not worth it and not to implement it in this script, especially considered the confusion about them.
 Hopefully, the general moon awareness brought by the usage of this script will be enough for one to notice when there is an extra moon!
 
