@@ -455,13 +455,13 @@ function moonPhaseAndSign(tp, options = {}) {
     // The order matters for adequate parsing
     rendered = rendered
         .replace(/moonEmoji/g, moonEmoji || "")
-        .replace(/moonPhaseWithName/g, moonPhase)
+        .replace(/moonPhaseWithName/g, moonPhase || "")
         .replace(/moonPhase/g, moonPhase || "")
         .replace(/fullMoonEmoji/g, fullMoonName ? fullMoonName.emoji : "") 
         .replace(/moonSignEmoji/g, currentSign ? currentSign.emoji : "")
         .replace(/moonSignNextEmoji/g, nextSign ? nextSign.emoji : "")
         .replace(/moonSignNextDate/g, nextSignEntryDateRendered || "")
-        .replace(/moonSignNext/g, nextSign[language] || "")
+        .replace(/moonSignNext/g, nextSign ? nextSign[language] : "")
         .replace(/moonSign/g, currentSign ? currentSign[language] : "")
         .replace(/__/g, ""); // remove spaces between parts if double underscore is used
 
